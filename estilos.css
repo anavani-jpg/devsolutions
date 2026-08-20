@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(247, 253, 255);
+}
+
+.funcionalidades {
+    padding: 20px;
+    background-color: cornflowerblue;
+}
+
+.funcionalidades h2 {
+    color: rgb(113, 143, 183);
+}
+
+.secao-principal h1 {
+    color: rgb(115, 167, 189);
+}
+
+.funcionalidades ul {
+    list-style: none;
+    padding: 0;
+}
+
+.funcionalidades li {
+    background-color: lightskyblue;
+    margin-bottom: 10px
+    paddig: 10px;
+}
